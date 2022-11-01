@@ -1,0 +1,19 @@
+{
+  "name": "journey",
+  "version": "1.0.0",
+  "description": "my life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal550/VishalPatilEra.git"
+  },
+  "author": "vishal patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal550/VishalPatilEra/issues"
+  },
+  "homepage": "https://github.com/vishal550/VishalPatilEra#readme"
+}
